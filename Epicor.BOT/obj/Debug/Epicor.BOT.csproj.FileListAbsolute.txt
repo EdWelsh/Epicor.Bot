@@ -1,0 +1,45 @@
+F:\Epicor.BOT\Epicor.BOT\bin\Bot Application.dll.config
+F:\Epicor.BOT\Epicor.BOT\bin\Bot Application.dll
+F:\Epicor.BOT\Epicor.BOT\bin\Bot Application.pdb
+F:\Epicor.BOT\Epicor.BOT\bin\Autofac.dll
+F:\Epicor.BOT\Epicor.BOT\bin\Chronic.dll
+F:\Epicor.BOT\Epicor.BOT\bin\Microsoft.Bot.Builder.Autofac.dll
+F:\Epicor.BOT\Epicor.BOT\bin\Microsoft.Bot.Builder.dll
+F:\Epicor.BOT\Epicor.BOT\bin\Microsoft.Bot.Connector.dll
+F:\Epicor.BOT\Epicor.BOT\bin\Microsoft.IdentityModel.Protocol.Extensions.dll
+F:\Epicor.BOT\Epicor.BOT\bin\Microsoft.Rest.ClientRuntime.dll
+F:\Epicor.BOT\Epicor.BOT\bin\Microsoft.WindowsAzure.Configuration.dll
+F:\Epicor.BOT\Epicor.BOT\bin\Newtonsoft.Json.dll
+F:\Epicor.BOT\Epicor.BOT\bin\System.IdentityModel.Tokens.Jwt.dll
+F:\Epicor.BOT\Epicor.BOT\bin\System.Net.Http.Formatting.dll
+F:\Epicor.BOT\Epicor.BOT\bin\System.Web.Http.dll
+F:\Epicor.BOT\Epicor.BOT\bin\System.Web.Http.WebHost.dll
+F:\Epicor.BOT\Epicor.BOT\bin\Autofac.xml
+F:\Epicor.BOT\Epicor.BOT\bin\Microsoft.Bot.Builder.xml
+F:\Epicor.BOT\Epicor.BOT\bin\Microsoft.Bot.Builder.Autofac.xml
+F:\Epicor.BOT\Epicor.BOT\bin\Microsoft.Bot.Connector.xml
+F:\Epicor.BOT\Epicor.BOT\bin\Microsoft.IdentityModel.Protocol.Extensions.xml
+F:\Epicor.BOT\Epicor.BOT\bin\Microsoft.WindowsAzure.Configuration.xml
+F:\Epicor.BOT\Epicor.BOT\bin\Newtonsoft.Json.xml
+F:\Epicor.BOT\Epicor.BOT\bin\System.IdentityModel.Tokens.Jwt.xml
+F:\Epicor.BOT\Epicor.BOT\bin\System.Net.Http.Formatting.xml
+F:\Epicor.BOT\Epicor.BOT\bin\System.Web.Http.xml
+F:\Epicor.BOT\Epicor.BOT\bin\System.Web.Http.WebHost.xml
+F:\Epicor.BOT\Epicor.BOT\bin\ar\Microsoft.Bot.Builder.resources.dll
+F:\Epicor.BOT\Epicor.BOT\bin\cs\Microsoft.Bot.Builder.resources.dll
+F:\Epicor.BOT\Epicor.BOT\bin\de-dE\Microsoft.Bot.Builder.resources.dll
+F:\Epicor.BOT\Epicor.BOT\bin\en\Microsoft.Bot.Builder.resources.dll
+F:\Epicor.BOT\Epicor.BOT\bin\es\Microsoft.Bot.Builder.resources.dll
+F:\Epicor.BOT\Epicor.BOT\bin\fa\Microsoft.Bot.Builder.resources.dll
+F:\Epicor.BOT\Epicor.BOT\bin\fr\Microsoft.Bot.Builder.resources.dll
+F:\Epicor.BOT\Epicor.BOT\bin\ja\Microsoft.Bot.Builder.resources.dll
+F:\Epicor.BOT\Epicor.BOT\bin\ru\Microsoft.Bot.Builder.resources.dll
+F:\Epicor.BOT\Epicor.BOT\bin\zh-hans\Microsoft.Bot.Builder.resources.dll
+F:\Epicor.BOT\Epicor.BOT\obj\Debug\Epicor.BOT.csprojResolveAssemblyReference.cache
+F:\Epicor.BOT\Epicor.BOT\obj\Debug\Epicor.BOT.csproj.CoreCompileInputs.cache
+F:\Epicor.BOT\Epicor.BOT\obj\Debug\Bot Application.dll
+F:\Epicor.BOT\Epicor.BOT\obj\Debug\Bot Application.pdb
+F:\Epicor.BOT\Epicor.BOT\bin\Microsoft.Rest.ClientRuntime.xml
+F:\Epicor.BOT\Epicor.BOT\bin\it\Microsoft.Bot.Builder.resources.dll
+F:\Epicor.BOT\Epicor.BOT\bin\nl\Microsoft.Bot.Builder.resources.dll
+F:\Epicor.BOT\Epicor.BOT\bin\pt-BR\Microsoft.Bot.Builder.resources.dll
